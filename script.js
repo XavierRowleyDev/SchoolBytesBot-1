@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Sport Selection
+// @name         SchoolBytesBot 
 // @namespace    http://tampermonkey.net/
 // @version      1
 // @description  Automatic sport selection on schoolbytes.
